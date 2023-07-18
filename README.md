@@ -21,18 +21,16 @@ The project consists of the following components:
 ## Installation
 
 1. Clone the repository:
+```
+git clone https://github.com/your_username/relationship-affairs-prediction.git
+```
 
-   ```
-   git clone https://github.com/your_username/relationship-affairs-prediction.git
-   ```
-
-   Change Directories to Project Directory
-   ```
-   cd relationship-affairs-prediction
-   ```
+2. Change Directories to Project Directory
+```
+cd relationship-affairs-prediction
+```
 
 3. Create a virtual environment (optional):
-
 ```
 python -m venv env
 ```
@@ -44,8 +42,8 @@ For Windows
 ```
 env\Scripts\activate 
 ```
-3. Install the dependencies:
 
+4. Install the dependencies:
 ```
 pip install -r requirements.txt
 ```
