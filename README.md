@@ -24,10 +24,14 @@ The project consists of the following components:
 
    ```
    git clone https://github.com/your_username/relationship-affairs-prediction.git
+   ```
+
+   Change Directories to Project Directory
+   ```
    cd relationship-affairs-prediction
    ```
 
-2. Create a virtual environment (optional):
+3. Create a virtual environment (optional):
 
 ```
 python -m venv env
