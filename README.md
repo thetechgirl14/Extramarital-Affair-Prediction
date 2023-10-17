@@ -22,7 +22,7 @@ The project consists of the following components:
 
 1. Clone the repository:
 ```
-git clone https://github.com/your_username/relationship-affairs-prediction.git
+git clone https://github.com/thetechgirl14/relationship-affairs-prediction.git
 ```
 
 2. Change Directories to Project Directory
